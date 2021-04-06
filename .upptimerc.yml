@@ -6,9 +6,9 @@ repo: uptest # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Brun
+  - name: ABV Missi
+    url: https://www.abv-styling.at/
+  - name: Brun Immo
     url: http://immobilien.brun.at
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
