@@ -1,7 +1,7 @@
 [
   {
     "name": "Al Pacino",
-    "url": "http://www.alpacino.at/",
+    "url": "http://www.alpacino.at",
     "icon": "https://favicons.githubusercontent.com/www.alpacino.at",
     "slug": "al-pacino",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 598,
-    "timeWeek": 598,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "time": 6383,
+    "timeDay": 6383,
+    "timeWeek": 6383,
+    "timeMonth": 6383,
+    "timeYear": 6383,
     "dailyMinutesDown": {}
   },
   {
     "name": "ABV Missi",
-    "url": "https://www.abv-styling.at/",
+    "url": "https://www.abv-styling.at",
     "icon": "https://favicons.githubusercontent.com/www.abv-styling.at",
     "slug": "abv-missi",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1072,
-    "timeDay": 1072,
-    "timeWeek": 1072,
-    "timeMonth": 1072,
-    "timeYear": 1072,
+    "time": 1069,
+    "timeDay": 1069,
+    "timeWeek": 1069,
+    "timeMonth": 1069,
+    "timeYear": 1069,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 766,
-    "timeWeek": 766,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "time": 950,
+    "timeDay": 950,
+    "timeWeek": 950,
+    "timeMonth": 950,
+    "timeYear": 950,
     "dailyMinutesDown": {}
   }
 ]
