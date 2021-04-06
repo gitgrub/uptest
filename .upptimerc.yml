@@ -4,8 +4,8 @@ repo: uptest # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Al Pacino
+    url: http://www.alpacino.at/
   - name: ABV Missi
     url: https://www.abv-styling.at/
   - name: Brun Immo
