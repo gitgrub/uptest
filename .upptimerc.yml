@@ -8,8 +8,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Brun
+    url: http://immobilien.brun.at
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
 #  - name: Test for HEAD
