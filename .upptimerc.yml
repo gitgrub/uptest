@@ -41,7 +41,8 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-
+  customHeadHtml: "<!-- any custom HTML to append in <head> -->"
+  customBodyHtml: "<!-- any custom HTML to append at the top of <body> -->"
 
 
 # Upptime also supports notifications, assigning issues, and more
