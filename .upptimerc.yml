@@ -43,6 +43,8 @@ status-website:
       content: "noindex"
   customHeadHtml: "<!-- any custom HTML to append in <head> -->"
   customBodyHtml: "<!-- any custom HTML to append at the top of <body> -->"
+  hideNavLogo: false # Hide the logo
+  hideNavTitle: true # Hide the title
 
 
 # Upptime also supports notifications, assigning issues, and more
