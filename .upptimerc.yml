@@ -20,6 +20,13 @@ sites:
 #  - name: TCP ping
 #    url: 1.1.1.1
 
+### examples
+#  - name: Test
+#    url: http://test.at
+#    __dangerous__body_down_if_text_missing: "Everything looks good"
+#    __dangerous__body_degraded_if_text_missing: "Everything is fast"
+###
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
 #  cname: demo.upptime.js.org
@@ -35,7 +42,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-###
+### probare
   metaTags:
     - name: "color-scheme"
       content: "dark light"
