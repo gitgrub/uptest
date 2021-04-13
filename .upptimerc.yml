@@ -25,6 +25,10 @@ sites:
 #    url: http://test.at
 #    __dangerous__body_down_if_text_missing: "Everything looks good"
 #    __dangerous__body_degraded_if_text_missing: "Everything is fast"
+#  - name: Google
+#    check: "tcp-ping"
+#    url: 46.28.246.123
+#    port: 80
 ###
 
 status-website:
