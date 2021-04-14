@@ -47,6 +47,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 ### probare
+  theme: dark
   metaTags:
     - name: "color-scheme"
       content: "dark light"
