@@ -10,6 +10,8 @@ sites:
     url: https://www.abv-styling.at
   - name: Brun Immo
     url: http://immobilien.brun.at
+  - name: DynDNS afraid
+    url: https://freedns.afraid.org
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
 #  - name: Test for HEAD
