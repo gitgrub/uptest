@@ -12,6 +12,11 @@ sites:
     url: http://immobilien.brun.at
   - name: DynDNS afraid
     url: https://freedns.afraid.org
+  - name: com1
+    check: "tcp-ping"
+    url: com1.undo.it
+    port: 80
+
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
 #  - name: Test for HEAD
@@ -49,6 +54,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
+
 #++ probare
   metaTags:
     - name: "color-scheme"
