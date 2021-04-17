@@ -14,7 +14,8 @@ sites:
     url: https://freedns.afraid.org
   - name: com1
     check: "tcp-ping"
-    url: com1.undo.it
+#    url: com1.undo.it
+    url: 91.118.140.239
     port: 8084
 
 #  - name: Broken Site
