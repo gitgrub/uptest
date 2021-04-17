@@ -17,6 +17,8 @@ sites:
 #    url: com1.undo.it
     url: 91.118.140.239
     port: 8084
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
 
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
