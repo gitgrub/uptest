@@ -1,4 +1,3 @@
-# Change these first
 owner: gitgrub # Your GitHub username
 repo: uptest # Your GitHub repository name
 
@@ -20,8 +19,6 @@ sites:
   - name: Broken Site
     url: https://thissitedoesnotexist.com
 
-#  - name: Broken Site
-#    url: https://thissitedoesnotexist.com
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: https://www.google.com
@@ -40,6 +37,9 @@ sites:
 #    url: 46.28.246.123
 #    port: 80
 ###
+
+assignees:
+  - gitgrub
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -64,8 +64,8 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-  customHeadHtml: "<!-- any custom HTML to append in <head> -->"
-  customBodyHtml: "<!-- any custom HTML to append at the top of <body> -->"
+  customHeadHtml: "<!-- any custom xxx HTML to append in <head> -->"
+  customBodyHtml: "<!-- any custom xxx HTML to append at the top of <body> -->"
   hideNavLogo: false # Hide the logo
   hideNavTitle: true # Hide the title
 #-- probare
