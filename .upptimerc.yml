@@ -11,6 +11,8 @@ sites:
     url: http://immobilien.brun.at
   - name: DynDNS afraid
     url: https://freedns.afraid.org
+  - name: https
+    url: https://no.itsnot.there
   - name: ping
     check: "tcp-ping"
     url: no.itsnot.there
@@ -70,7 +72,7 @@ status-website:
   customHeadHtml: "<!-- any custom xxx HTML to append in <head> -->"
   customBodyHtml: "<!-- any custom xxx HTML to append at the top of <body> -->"
   hideNavLogo: false # Hide the logo
-  hideNavTitle: true # Hide the title
+  hideNavTitle: false # Hide the title
 #-- probare
 
 
