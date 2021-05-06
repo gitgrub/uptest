@@ -13,7 +13,7 @@
     "time": 5828,
     "timeDay": 2646,
     "timeWeek": 7553,
-    "timeMonth": 5828,
+    "timeMonth": 5808,
     "timeYear": 5828,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://www.abv-styling.at",
     "icon": "https://favicons.githubusercontent.com/www.abv-styling.at",
     "slug": "abv-missi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1213,
     "timeDay": 1402,
     "timeWeek": 1272,
-    "timeMonth": 1213,
+    "timeMonth": 1221,
     "timeYear": 1213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-06": 0
+    }
   },
   {
     "name": "Brun Immo",
@@ -49,7 +51,7 @@
     "time": 925,
     "timeDay": 840,
     "timeWeek": 1005,
-    "timeMonth": 925,
+    "timeMonth": 924,
     "timeYear": 925,
     "dailyMinutesDown": {}
   },
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 30,
+      "2021-05-06": 650,
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
