@@ -3,8 +3,6 @@ repo: uptest # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Al Pacino
-    url: http://www.alpacino.at
   - name: ABV Missi
     url: https://www.abv-styling.at
   - name: Brun Immo
@@ -13,12 +11,12 @@ sites:
     url: https://freedns.afraid.org
   - name: https
     url: https://no.itsnot.there
-  - name: ping
+  - name: ping-test
     check: "tcp-ping"
     url: no.itsnot.there
 #    url: com1.undo.itt
 #    url: 91.118.140.239
-    port: 8084
+    port: 35926
 
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
