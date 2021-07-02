@@ -4,19 +4,19 @@
     "url": "https://www.abv-styling.at",
     "icon": "https://favicons.githubusercontent.com/www.abv-styling.at",
     "slug": "abv-missi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1204,
-    "timeDay": 869,
-    "timeWeek": 1051,
-    "timeMonth": 1152,
-    "timeYear": 1204,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1207,
+    "timeDay": 1234,
+    "timeWeek": 1119,
+    "timeMonth": 1166,
+    "timeYear": 1207,
     "dailyMinutesDown": {
-      "2021-07-02": 0
+      "2021-07-02": 19
     }
   },
   {
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-02": 1118,
+      "2021-07-02": 1136,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
       "2021-06-29": 1440,
