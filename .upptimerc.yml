@@ -71,6 +71,10 @@ status-website:
   customBodyHtml: "<!-- any custom xxx HTML to append at the top of <body> -->"
   hideNavLogo: false # Hide the logo
   hideNavTitle: false # Hide the title
+  skipDescriptionUpdate: true
+  skipTopicsUpdate: true
+#  skipHomepageUpdate: true
+
 #-- probare
 
 
