@@ -76,6 +76,8 @@ status-website:
 #  skipHomepageUpdate: true
 
 #-- probare
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
 
 
 # Upptime also supports notifications, assigning issues, and more
