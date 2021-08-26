@@ -25,19 +25,19 @@
     "url": "http://immobilien.brun.at",
     "icon": "https://favicons.githubusercontent.com/immobilien.brun.at",
     "slug": "brun-immo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 685,
-    "timeWeek": 834,
-    "timeMonth": 879,
-    "timeYear": 910,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 908,
+    "timeDay": 669,
+    "timeWeek": 814,
+    "timeMonth": 872,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2021-08-26": 0
+      "2021-08-26": 11
     }
   },
   {
@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-26": 1246,
+      "2021-08-26": 1258,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
       "2021-08-23": 1440,
