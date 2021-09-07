@@ -9,7 +9,7 @@ sites:
     url: http://immobilien.brun.at
   - name: DynDNS afraid
     url: https://freedns.afraid.org
-  - name: https
+  - name: https.itsnot.there
     url: https://no.itsnot.there
   - name: ping-test
     check: "tcp-ping"
