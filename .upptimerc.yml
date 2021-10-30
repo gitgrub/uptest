@@ -74,6 +74,8 @@ status-website:
   skipDescriptionUpdate: true
   skipTopicsUpdate: true
 #  skipHomepageUpdate: true
+  i18n:
+    footer: Test
 
 #-- probare
 skipDescriptionUpdate: true
