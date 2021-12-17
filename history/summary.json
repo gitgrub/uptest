@@ -4,7 +4,7 @@
     "url": "https://www.abv-styling.at",
     "icon": "https://favicons.githubusercontent.com/www.abv-styling.at",
     "slug": "abv-missi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1100,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2021-12-17": 0,
       "2021-08-30": 20,
       "2021-08-26": 109,
       "2021-07-02": 19
@@ -84,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-17": 44,
+      "2021-12-17": 225,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
