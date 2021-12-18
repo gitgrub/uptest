@@ -44,7 +44,7 @@
     "url": "https://freedns.afraid.org",
     "icon": "https://favicons.githubusercontent.com/freedns.afraid.org",
     "slug": "dyn-dns-afraid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.75%",
@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-18": 925,
+      "2021-12-18": 1026,
       "2021-12-17": 1440,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
