@@ -20,9 +20,9 @@ sites:
   - name: ping-test
     check: "tcp-ping"
     url: 8.8.8.8
+    port: 35926
 #    url: com1.undo.itt
 #    url: 91.118.140.239
-    port: 35926
 
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
