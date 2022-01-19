@@ -19,7 +19,7 @@ sites:
     url: https://no.itsnot.there
   - name: ping-test
     check: "tcp-ping"
-    url: no.itsnot.there
+    url: 8.8.8.8
 #    url: com1.undo.itt
 #    url: 91.118.140.239
     port: 35926
