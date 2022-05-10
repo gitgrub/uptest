@@ -17,10 +17,10 @@ sites:
     url: https://freedns.afraid.org
   - name: https.itsnot.there
     url: https://no.itsnot.there
-  - name: ping-test
+  - name: ping vivaldi
     check: "tcp-ping"
-    url: 8.8.8.8
-    port: 35926
+    url: 104.22.77.159
+    port: 443
 #    url: com1.undo.itt
 #    url: 91.118.140.239
 
