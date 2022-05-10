@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1211,
-    "timeDay": 1137,
-    "timeWeek": 1084,
-    "timeMonth": 1086,
+    "timeDay": 1220,
+    "timeWeek": 1111,
+    "timeMonth": 1093,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2021-08-30": 20,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 744,
-    "timeWeek": 689,
-    "timeMonth": 732,
-    "timeYear": 811,
+    "time": 830,
+    "timeDay": 988,
+    "timeWeek": 757,
+    "timeMonth": 748,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2021-12-22": 24
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.88%",
     "time": 487,
-    "timeDay": 298,
-    "timeWeek": 244,
-    "timeMonth": 340,
-    "timeYear": 506,
+    "timeDay": 195,
+    "timeWeek": 225,
+    "timeMonth": 332,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2022-04-23": 38,
       "2022-03-24": 21,
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-10": 60,
+      "2022-05-10": 538,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
@@ -340,21 +340,21 @@
     }
   },
   {
-    "name": "ping-test",
-    "url": "8.8.8.8",
+    "name": "ping vivaldi",
+    "url": "104.22.77.159",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "ping-test",
+    "slug": "ping-vivaldi",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 2,
+    "timeDay": 2,
+    "timeWeek": 2,
+    "timeMonth": 2,
+    "timeYear": 2,
     "dailyMinutesDown": {}
   }
 ]
