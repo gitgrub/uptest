@@ -25,6 +25,9 @@ sites:
     check: "tcp-ping"
     url: com1.undo.it
     port: 62985
+  - name: mizziTest
+    check: "tcp-ping"
+    url: 178.79.148.229
 #    url: 91.118.140.239
 
 #  - name: Broken Site
