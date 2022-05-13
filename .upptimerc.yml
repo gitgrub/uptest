@@ -4,8 +4,8 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 assignees:
   - gitgrub
-i18n:
-  footer: Test
+# i18n:
+#   footer: Test
 
 # Add your sites here
 sites:
@@ -15,13 +15,16 @@ sites:
     url: http://immobilien.brun.at
   - name: DynDNS afraid
     url: https://freedns.afraid.org
-  - name: https.itsnot.there
-    url: https://no.itsnot.there
-  - name: ping vivaldi
+#  - name: https.itsnot.there
+#    url: https://no.itsnot.there
+  - name: ping Vivaldi forum
     check: "tcp-ping"
     url: 104.22.77.159
     port: 443
-#    url: com1.undo.itt
+  - name: myTest
+    check: "tcp-ping"
+    url: com1.undo.it
+    port: 62985
 #    url: 91.118.140.239
 
 #  - name: Broken Site
