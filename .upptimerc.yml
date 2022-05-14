@@ -25,11 +25,11 @@ sites:
     check: "tcp-ping"
     url: com1.undo.it
     port: 62985
-  - name: mizziTest.22
+  - name: mTest.22
     check: "tcp-ping"
     url: 178.79.148.229
     port: 22
-  - name: mizziTest.443
+  - name: mTest.443
     check: "tcp-ping"
     url: 178.79.148.229
     port: 443
