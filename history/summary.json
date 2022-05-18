@@ -151,9 +151,9 @@
     "url": "213.163.73.203",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,6 +162,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
