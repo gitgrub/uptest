@@ -15,8 +15,6 @@ sites:
     url: http://immobilien.brun.at
   - name: DynDNS afraid
     url: https://freedns.afraid.org
-#  - name: https.itsnot.there
-#    url: https://no.itsnot.there
   - name: ping Vivaldi forum
     check: "tcp-ping"
     url: 104.22.77.159
@@ -37,15 +35,11 @@ sites:
     check: "tcp-ping"
     url: 213.163.73.203
 
-#  - name: Broken Site
-#    url: https://thissitedoesnotexist.com
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: https://www.google.com
 #  - name: Secret Site
 #    url: $SECRET_SITE
-#  - name: TCP ping
-#    url: 1.1.1.1
 
 ### examples
 #  - name: Test
@@ -65,7 +59,7 @@ status-website:
   # baseUrl: /upptime
   baseUrl: /uptest
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Uptest
 #  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
 #  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 #  introTitle: introTitle
