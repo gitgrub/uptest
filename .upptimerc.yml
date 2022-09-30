@@ -7,6 +7,9 @@ assignees:
 # i18n:
 #   footer: Test
 
+# user-agent, right level?
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+
 # Add your sites here
 sites:
   - name: ABV Missi
@@ -81,6 +84,7 @@ status-website:
   customBodyHtml: "<!-- any custom xxx HTML to append at the top of <body> -->"
   hideNavLogo: false # Hide the logo
   hideNavTitle: false # Hide the title
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
