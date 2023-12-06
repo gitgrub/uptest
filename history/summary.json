@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abv-styling.at.ico",
     "slug": "abv-missi",
     "status": "down",
-    "uptime": "66.97%",
+    "uptime": "66.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.91%",
-    "time": 1065,
+    "uptimeYear": "11.85%",
+    "time": 1066,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 899,
+    "timeYear": 884,
     "dailyMinutesDown": {
-      "2023-12-05": 1219,
+      "2023-12-06": 53,
+      "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -352,10 +353,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 400,
-    "timeWeek": 472,
-    "timeMonth": 521,
-    "timeYear": 543,
+    "timeDay": 1072,
+    "timeWeek": 558,
+    "timeMonth": 544,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   },
   {
@@ -370,8 +371,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.49%",
     "time": 708,
-    "timeDay": 280,
-    "timeWeek": 213,
+    "timeDay": 276,
+    "timeWeek": 223,
     "timeMonth": 249,
     "timeYear": 688,
     "dailyMinutesDown": {
@@ -408,7 +409,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 6,
+    "timeDay": 5,
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 7,
@@ -426,9 +427,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.26%",
     "time": 350,
-    "timeDay": 1170,
-    "timeWeek": 565,
-    "timeMonth": 479,
+    "timeDay": 231,
+    "timeWeek": 572,
+    "timeMonth": 478,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2023-10-02": 241,
@@ -460,9 +461,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 80,
-    "timeWeek": 109,
+    "time": 107,
+    "timeDay": 81,
+    "timeWeek": 107,
     "timeMonth": 102,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -484,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-05": 1219,
+      "2023-12-06": 53,
+      "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -847,8 +849,7 @@
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
-      "2022-12-07": 1440,
-      "2022-12-06": 1440
+      "2022-12-07": 1440
     }
   },
   {
@@ -868,7 +869,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-05": 1219,
+      "2023-12-06": 53,
+      "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -1231,8 +1233,7 @@
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
-      "2022-12-07": 1440,
-      "2022-12-06": 1440
+      "2022-12-07": 1440
     }
   }
 ]
