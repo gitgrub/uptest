@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2023-12-14": 52,
+      "2023-12-14": 82,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -411,9 +411,9 @@
     "url": "104.22.77.159",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-vivaldi-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -422,7 +422,9 @@
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 6,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "myTest",
@@ -464,9 +466,9 @@
     "url": "178.79.148.229",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "m-test-22",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -475,7 +477,9 @@
     "timeWeek": 91,
     "timeMonth": 96,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "mTest.443",
@@ -494,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-14": 52,
+      "2023-12-14": 82,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -878,7 +882,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-14": 52,
+      "2023-12-14": 82,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
