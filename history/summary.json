@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abv-styling.at.ico",
     "slug": "abv-missi",
     "status": "down",
-    "uptime": "60.11%",
+    "uptime": "60.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 942,
+    "time": 941,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 756,
+    "timeYear": 753,
     "dailyMinutesDown": {
-      "2024-03-26": 50,
+      "2024-03-27": 50,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -379,8 +380,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 387,
-    "timeWeek": 557,
-    "timeMonth": 559,
+    "time": 559,
+    "timeDay": 384,
+    "timeWeek": 449,
+    "timeMonth": 552,
     "timeYear": 554,
     "dailyMinutesDown": {}
   },
@@ -407,15 +407,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/freedns.afraid.org.ico",
     "slug": "dyn-dns-afraid",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 608,
-    "timeDay": 344,
+    "timeDay": 323,
     "timeWeek": 338,
-    "timeMonth": 361,
+    "timeMonth": 368,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2024-01-21": 42,
@@ -454,7 +454,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 6,
-    "timeDay": 5,
+    "timeDay": 2,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 6,
@@ -476,10 +476,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.20%",
     "time": 336,
-    "timeDay": 109,
-    "timeWeek": 135,
-    "timeMonth": 141,
-    "timeYear": 341,
+    "timeDay": 107,
+    "timeWeek": 134,
+    "timeMonth": 139,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2024-02-19": 766,
       "2024-02-18": 1440,
@@ -510,9 +510,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 107,
-    "timeDay": 80,
-    "timeWeek": 100,
-    "timeMonth": 107,
+    "timeDay": 76,
+    "timeWeek": 99,
+    "timeMonth": 104,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-12-16": 77,
@@ -526,7 +526,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "m-test-443",
     "status": "down",
-    "uptime": "5.92%",
+    "uptime": "5.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -537,7 +537,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 50,
+      "2024-03-27": 50,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -900,8 +901,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   },
   {
@@ -921,7 +921,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 50,
+      "2024-03-27": 50,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -1284,8 +1285,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   }
 ]
