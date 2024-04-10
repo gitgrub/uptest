@@ -26,6 +26,7 @@ sites:
     check: "tcp-ping"
     url: com1.undo.it
     port: 62985
+    attempts: 3
   - name: mTest.22
     check: "tcp-ping"
     url: 178.79.148.229
