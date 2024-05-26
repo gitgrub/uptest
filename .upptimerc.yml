@@ -35,6 +35,9 @@ sites:
     check: "tcp-ping"
     url: 178.79.148.229
     port: 443
+  - name: oe24.tv
+    url: https://www.oe24.at
+
 #  - name: hm
 #    check: "tcp-ping"
 #    url: 213.163.73.203
