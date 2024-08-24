@@ -39,6 +39,8 @@ sites:
     url: https://www.oe24.at
   - name: hdaustria
     url: https://livetv.hdaustria.at
+  - name: canal+
+    url: https://play.canalplus.at
 
 #  - name: hm
 #    check: "tcp-ping"
