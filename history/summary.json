@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-11": 66,
+      "2024-11-11": 184,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -527,7 +527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-11": 66,
+      "2024-11-11": 184,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -935,9 +935,9 @@
     "url": "https://play.canalplus.at",
     "icon": "https://icons.duckduckgo.com/ip3/play.canalplus.at.ico",
     "slug": "canal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -947,6 +947,7 @@
     "timeMonth": 580,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2024-11-11": 0,
       "2024-10-15": 24
     }
   }
