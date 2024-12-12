@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-12": 773,
+      "2024-12-12": 944,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -525,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-12": 773,
+      "2024-12-12": 944,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -915,19 +915,19 @@
     "url": "https://livetv.hdaustria.at",
     "icon": "https://icons.duckduckgo.com/ip3/livetv.hdaustria.at.ico",
     "slug": "hdaustria",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 518,
-    "timeWeek": 564,
-    "timeMonth": 619,
-    "timeYear": 619,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.94%",
+    "time": 618,
+    "timeDay": 538,
+    "timeWeek": 563,
+    "timeMonth": 617,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-12-12": 0
+      "2024-12-12": 171
     }
   },
   {
