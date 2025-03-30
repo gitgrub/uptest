@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abv-styling.at.ico",
     "slug": "abv-missi",
     "status": "down",
-    "uptime": "44.88%",
+    "uptime": "44.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 70,
+      "2025-03-30": 57,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -379,8 +380,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
-    "timeDay": 522,
-    "timeWeek": 563,
-    "timeMonth": 566,
-    "timeYear": 533,
+    "timeDay": 835,
+    "timeWeek": 587,
+    "timeMonth": 575,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   },
   {
@@ -406,18 +406,19 @@
     "url": "https://freedns.afraid.org",
     "icon": "https://icons.duckduckgo.com/ip3/freedns.afraid.org.ico",
     "slug": "dyn-dns-afraid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
-    "time": 778,
-    "timeDay": 436,
+    "time": 779,
+    "timeDay": 120,
     "timeWeek": 556,
-    "timeMonth": 438,
-    "timeYear": 968,
+    "timeMonth": 428,
+    "timeYear": 966,
     "dailyMinutesDown": {
+      "2025-03-30": 0,
       "2025-03-18": 34,
       "2024-08-07": 18,
       "2024-07-16": 38,
@@ -438,7 +439,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 6,
+    "timeDay": 2,
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 5,
@@ -456,9 +457,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 82,
+    "timeDay": 146,
     "timeWeek": 114,
-    "timeMonth": 102,
+    "timeMonth": 103,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2025-03-01": 24
@@ -473,7 +474,7 @@
     "uptime": "3.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -481,7 +482,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 70,
+      "2025-03-30": 57,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -844,8 +846,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -859,11 +860,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 602,
-    "timeDay": 223,
-    "timeWeek": 548,
-    "timeMonth": 625,
-    "timeYear": 602,
+    "time": 603,
+    "timeDay": 950,
+    "timeWeek": 610,
+    "timeMonth": 636,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2025-01-29": 32
     }
@@ -879,11 +880,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 677,
-    "timeWeek": 751,
-    "timeMonth": 691,
-    "timeYear": 720,
+    "time": 721,
+    "timeDay": 769,
+    "timeWeek": 756,
+    "timeMonth": 694,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -897,11 +898,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 607,
-    "timeDay": 583,
-    "timeWeek": 650,
-    "timeMonth": 629,
-    "timeYear": 607,
+    "time": 609,
+    "timeDay": 1192,
+    "timeWeek": 715,
+    "timeMonth": 648,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2024-11-11": 28,
       "2024-10-15": 24
@@ -918,11 +919,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 740,
-    "timeWeek": 781,
-    "timeMonth": 711,
-    "timeYear": 719,
+    "time": 723,
+    "timeDay": 970,
+    "timeWeek": 798,
+    "timeMonth": 720,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   }
 ]
