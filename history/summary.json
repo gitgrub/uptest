@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abv-styling.at.ico",
     "slug": "abv-missi",
     "status": "down",
-    "uptime": "44.79%",
+    "uptime": "44.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 80,
+      "2025-04-01": 936,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -388,9 +388,9 @@
     "url": "http://immobilien.brun.at",
     "icon": "https://icons.duckduckgo.com/ip3/immobilien.brun.at.ico",
     "slug": "brun-immo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -399,7 +399,9 @@
     "timeWeek": 563,
     "timeMonth": 573,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-01": 0
+    }
   },
   {
     "name": "DynDNS afraid",
@@ -454,7 +456,7 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
     "timeDay": 126,
@@ -482,7 +484,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 80,
+      "2025-04-01": 936,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
