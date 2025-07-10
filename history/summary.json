@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 1313,
+      "2025-07-10": 1360,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -436,11 +436,11 @@
     "url": "104.22.77.159",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-vivaldi-forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "90.50%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.97%",
     "time": 5,
     "timeDay": 2,
@@ -448,7 +448,7 @@
     "timeMonth": 4,
     "timeYear": 5,
     "dailyMinutesDown": {
-      "2025-07-10": 137
+      "2025-07-10": 184
     }
   },
   {
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 1313,
+      "2025-07-10": 1360,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
