@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abv-styling.at.ico",
     "slug": "abv-missi",
     "status": "down",
-    "uptime": "41.80%",
+    "uptime": "41.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 85,
+      "2025-07-15": 85,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -379,8 +380,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.46%",
-    "time": 720,
-    "timeDay": 1019,
-    "timeWeek": 1059,
-    "timeMonth": 1387,
-    "timeYear": 783,
+    "time": 723,
+    "timeDay": 1820,
+    "timeWeek": 1158,
+    "timeMonth": 1327,
+    "timeYear": 787,
     "dailyMinutesDown": {
       "2025-07-02": 25,
       "2025-07-01": 28,
@@ -420,10 +420,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 866,
-    "timeDay": 287,
-    "timeWeek": 420,
+    "timeDay": 79,
+    "timeWeek": 384,
     "timeMonth": 375,
-    "timeYear": 522,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2025-03-30": 104,
       "2025-03-18": 34,
@@ -437,14 +437,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-vivaldi-forum",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.92%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 5,
     "timeDay": 2,
-    "timeWeek": 4,
+    "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 5,
     "dailyMinutesDown": {
@@ -463,8 +463,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 77,
-    "timeWeek": 85,
+    "timeDay": 146,
+    "timeWeek": 94,
     "timeMonth": 100,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -477,7 +477,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "m-test-443",
     "status": "down",
-    "uptime": "3.49%",
+    "uptime": "3.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -488,7 +488,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 85,
+      "2025-07-15": 85,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -851,8 +852,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -867,9 +867,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 587,
-    "timeDay": 167,
-    "timeWeek": 334,
-    "timeMonth": 412,
+    "timeDay": 390,
+    "timeWeek": 339,
+    "timeMonth": 393,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2025-07-04": 87,
@@ -888,11 +888,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 628,
-    "timeWeek": 599,
-    "timeMonth": 694,
-    "timeYear": 719,
+    "time": 720,
+    "timeDay": 906,
+    "timeWeek": 644,
+    "timeMonth": 653,
+    "timeYear": 720,
     "dailyMinutesDown": {}
   },
   {
@@ -907,9 +907,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 632,
-    "timeDay": 525,
-    "timeWeek": 640,
-    "timeMonth": 655,
+    "timeDay": 621,
+    "timeWeek": 642,
+    "timeMonth": 651,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2024-11-11": 28,
@@ -928,9 +928,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 803,
-    "timeDay": 769,
-    "timeWeek": 700,
-    "timeMonth": 785,
+    "timeDay": 935,
+    "timeWeek": 730,
+    "timeMonth": 780,
     "timeYear": 803,
     "dailyMinutesDown": {}
   }
