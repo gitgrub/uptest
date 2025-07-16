@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abv-styling.at.ico",
     "slug": "abv-missi",
     "status": "down",
-    "uptime": "41.75%",
+    "uptime": "41.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 82,
+      "2025-07-16": 1102,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -418,12 +418,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 865,
     "timeDay": 117,
     "timeWeek": 228,
     "timeMonth": 371,
-    "timeYear": 521,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2025-03-30": 104,
       "2025-03-18": 34,
@@ -435,9 +435,9 @@
     "url": "104.22.77.159",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-vivaldi-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.92%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
@@ -447,6 +447,7 @@
     "timeMonth": 5,
     "timeYear": 5,
     "dailyMinutesDown": {
+      "2025-07-16": 0,
       "2025-07-10": 210
     }
   },
@@ -487,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 83,
+      "2025-07-16": 1102,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
