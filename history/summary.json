@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 76,
+      "2025-09-07": 282,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -416,12 +416,12 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.87%",
     "time": 847,
     "timeDay": 209,
-    "timeWeek": 248,
+    "timeWeek": 241,
     "timeMonth": 724,
     "timeYear": 582,
     "dailyMinutesDown": {
@@ -446,18 +446,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-vivaldi-forum",
     "status": "down",
-    "uptime": "95.51%",
+    "uptime": "95.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.63%",
+    "uptimeYear": "85.60%",
     "time": 5,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5,
     "dailyMinutesDown": {
-      "2025-09-07": 76,
+      "2025-09-07": 282,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -551,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 76,
+      "2025-09-07": 282,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -946,10 +946,10 @@
     "url": "https://livetv.hdaustria.at",
     "icon": "https://icons.duckduckgo.com/ip3/livetv.hdaustria.at.ico",
     "slug": "hdaustria-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 725,
@@ -957,16 +957,18 @@
     "timeWeek": 915,
     "timeMonth": 798,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-07": 1
+    }
   },
   {
     "name": "canal+",
     "url": "https://play.canalplus.at",
     "icon": "https://icons.duckduckgo.com/ip3/play.canalplus.at.ico",
     "slug": "canal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -976,6 +978,7 @@
     "timeMonth": 732,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2025-09-07": 0,
       "2024-11-11": 28,
       "2024-10-15": 24
     }
