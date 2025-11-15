@@ -30,11 +30,11 @@ sites:
 #    attempts: 3
   - name: mTest.22
     check: "tcp-ping"
-    url: 178.79.148.229
+    url: 84.115.231.162
     port: 22
   - name: mTest.443
     check: "tcp-ping"
-    url: 178.79.148.229
+    url: 84.115.231.162
     port: 443
   - name: oe24.tv
     url: https://www.oe24.at
