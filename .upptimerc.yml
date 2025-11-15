@@ -20,7 +20,7 @@ sites:
     url: https://freedns.afraid.org
   - name: ping Vivaldi forum
     check: "tcp-ping"
-    url: 104.22.77.159
+    url: forum.vivaldi.net
     port: 443
 #  - name: myTest
 #    check: "tcp-ping"
