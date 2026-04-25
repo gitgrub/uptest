@@ -1,7 +1,7 @@
 url: http://immobilien.brun.at
-status: down
-code: 503
-responseTime: 3917
-lastUpdated: 2026-04-25T18:41:59.010Z
+status: up
+code: 200
+responseTime: 1152
+lastUpdated: 2026-04-25T19:33:44.238Z
 startTime: 2021-04-06T00:56:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
