@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abv-styling.at.ico",
     "slug": "abv-missi",
     "status": "down",
-    "uptime": "33.46%",
+    "uptime": "33.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 147,
+      "2026-08-08": 76,
+      "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -379,8 +380,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2025-08-09": 1440,
-      "2025-08-08": 1440
+      "2025-08-09": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1424,
-    "timeDay": 1669,
-    "timeWeek": 1530,
-    "timeMonth": 1729,
-    "timeYear": 1443,
+    "time": 1426,
+    "timeDay": 1664,
+    "timeWeek": 1516,
+    "timeMonth": 1742,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2025-12-03": 16,
       "2025-12-04": 41,
@@ -423,9 +423,9 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "98.88%",
     "time": 596,
-    "timeDay": 50,
+    "timeDay": 51,
     "timeWeek": 252,
-    "timeMonth": 703,
+    "timeMonth": 697,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2025-08-23": 152,
@@ -519,11 +519,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-vivaldi-forum",
     "status": "up",
-    "uptime": "92.01%",
+    "uptime": "92.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.60%",
+    "uptimeYear": "72.86%",
     "time": 6,
     "timeDay": 2,
     "timeWeek": 8,
@@ -628,8 +628,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2025-08-09": 1440,
-      "2025-08-08": 1440
+      "2025-08-09": 1440
     }
   },
   {
@@ -638,18 +637,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "m-test-22",
     "status": "down",
-    "uptime": "82.52%",
+    "uptime": "82.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.40%",
-    "time": 105,
+    "uptimeYear": "27.14%",
+    "time": 106,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2026-08-07": 148,
+      "2026-08-08": 76,
+      "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -934,7 +934,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 148,
+      "2026-08-08": 76,
+      "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -1297,8 +1298,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2025-08-09": 1440,
-      "2025-08-08": 1440
+      "2025-08-09": 1440
     }
   },
   {
@@ -1312,11 +1312,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 541,
-    "timeWeek": 472,
-    "timeMonth": 453,
-    "timeYear": 469,
+    "time": 479,
+    "timeDay": 532,
+    "timeWeek": 486,
+    "timeMonth": 461,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -1330,11 +1330,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1195,
-    "timeDay": 1628,
-    "timeWeek": 1434,
-    "timeMonth": 1388,
-    "timeYear": 1362,
+    "time": 1198,
+    "timeDay": 1575,
+    "timeWeek": 1370,
+    "timeMonth": 1408,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-09-07": 51,
       "2025-09-30": 35,
@@ -1353,9 +1353,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 378,
-    "timeDay": 527,
-    "timeWeek": 437,
-    "timeMonth": 469,
+    "timeDay": 582,
+    "timeWeek": 461,
+    "timeMonth": 480,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2025-09-07": 34,
@@ -1373,10 +1373,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 842,
-    "timeDay": 935,
+    "time": 843,
+    "timeDay": 938,
     "timeWeek": 791,
-    "timeMonth": 877,
+    "timeMonth": 888,
     "timeYear": 839,
     "dailyMinutesDown": {
       "2026-02-25": 45
