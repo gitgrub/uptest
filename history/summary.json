@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 993,
+      "2026-11-10": 28,
+      "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -379,8 +380,7 @@
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
-      "2025-11-11": 1440,
-      "2025-11-10": 1440
+      "2025-11-11": 1440
     }
   },
   {
@@ -398,7 +398,7 @@
     "timeDay": 1240,
     "timeWeek": 1726,
     "timeMonth": 1756,
-    "timeYear": 1528,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2025-12-03": 16,
       "2025-12-04": 41,
@@ -416,17 +416,17 @@
     "url": "https://freedns.afraid.org",
     "icon": "https://icons.duckduckgo.com/ip3/freedns.afraid.org.ico",
     "slug": "dyn-dns-afraid",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "85.63%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "99.06%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "67.05%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "95.55%",
+    "uptimeYear": "98.97%",
     "time": 609,
-    "timeDay": 251,
-    "timeWeek": 198,
-    "timeMonth": 1166,
-    "timeYear": 614,
+    "timeDay": 286,
+    "timeWeek": 210,
+    "timeMonth": 1144,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2025-11-12": 28,
       "2025-11-13": 68,
@@ -489,8 +489,9 @@
       "2026-10-21": 256,
       "2026-10-27": 350,
       "2026-10-31": 387,
-      "2026-11-09": 10,
-      "2026-11-08": 197
+      "2026-11-09": 456,
+      "2026-11-08": 197,
+      "2026-11-10": 19
     }
   },
   {
@@ -499,11 +500,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-vivaldi-forum",
     "status": "up",
-    "uptime": "92.47%",
+    "uptime": "92.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.61%",
     "time": 6,
     "timeDay": 6,
     "timeWeek": 9,
@@ -514,8 +515,7 @@
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
-      "2025-11-11": 1440,
-      "2025-11-10": 1440
+      "2025-11-11": 1440
     }
   },
   {
@@ -524,18 +524,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "m-test-22",
     "status": "down",
-    "uptime": "77.76%",
+    "uptime": "77.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.49%",
+    "uptimeYear": "1.40%",
     "time": 105,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 108,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2026-11-09": 994,
+      "2026-11-10": 28,
+      "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -914,7 +915,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 994,
+      "2026-11-10": 28,
+      "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -1277,8 +1279,7 @@
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
-      "2025-11-11": 1440,
-      "2025-11-10": 1440
+      "2025-11-11": 1440
     }
   },
   {
